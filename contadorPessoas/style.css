@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+button{
+    padding: 5px 15px;
+    font-weight: bold;
+    color: white;
+}
+
+#increment-btn{
+    background: blue;
+}
+#save-btn{
+    background: green;
+}
+#reset-btn{
+    background: red;
+}
