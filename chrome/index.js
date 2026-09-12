@@ -43,3 +43,50 @@ function render(leads){
     }
     ulEl.innerHTML = listItems
 }
+
+
+
+
+// let myCourses = ["Learn CSS Animations", "UI Design Fundamentals", "Intro to Clean Code"]
+
+// // Create a function that takes a single parameter, an array,
+// // and logs all the items of the array to the console.
+// // Call the function while passing in myCourses as an argument
+
+// function logItems(arr) {
+//     for (let i = 0; i < arr.length; i++) {
+//         console.log(arr[i])
+//     }
+// }
+
+// logItems(myCourses)
+
+// const fruits = ["apple", "bananas", "oranges"]
+// const question = "best fruits"
+
+// function generateSentence(desc, arr) {
+//     let sentence = ""
+//     for(let i = 0; i < arr.length; i++){
+//         sentence = `The ${desc} are ${arr}`
+//     }
+//     console.log(sentence)
+// }
+
+// generateSentence(question, fruits)
+
+
+// const containerEl = document.getElementById("container")
+
+// const imgs = [
+//     "images/hip1.jpg",
+//     "images/hip2.jpg",
+//     "images/hip3.jpg"
+// ]
+// function renderImages(){
+//     for(let i = 0; i < imgs.lenght; i++){
+//         containerEl.innerHTML += `<img class="team-img" src="${imgs[i]}">`
+//     }
+
+// }
+
+// renderImages()
